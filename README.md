@@ -1,4 +1,4 @@
-در لحظه {E} تلپورت فقط با دکمه 
+فوراً فقط با دکمه {E} تله پورت کنید 
 
 Instantly teleport  with just {E} button
 
