@@ -1,4 +1,6 @@
-فوراً فقط با دکمه {E} تله پورت کنید 
+-- Question Or Bug = Mohammadgrad#1915 -- Server Discord : https://discord.gg/zTRDVtmWCa
+
+فوراً فقط با دکمه{E} تله پورت کنید 
 
 Instantly teleport  with just {E} button
 
